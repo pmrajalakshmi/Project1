@@ -30,6 +30,9 @@ class CheckIfHopper implements CheckTrait{
 }
 public class LamdaExcercise{
     public static void main(String[] args){
+
+        System.out.println("this future added by muru");
+
         List<Animal> animals = new ArrayList<Animal>();
         animals.add(new Animal("fish",false,true));
         animals.add(new Animal("Kangaroo",true,false));
